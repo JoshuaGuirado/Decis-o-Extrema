@@ -1,0 +1,5 @@
+{
+  "name": "Decisão Extrema",
+  "description": "Simulador de decisões de vida com consequências dinâmicas geradas por IA.",
+  "requestFramePermissions": ["microphone"]
+}
